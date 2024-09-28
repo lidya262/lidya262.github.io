@@ -78,7 +78,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1289,7 +1289,7 @@
         <slidelink slideid="_player.5wZTTSyUMUY" displaytext="Evaluasi" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5wZTTSyUMUY.6WvEPZNUdvu" displaytext="Pengantar" expand="false" type="slide" />
-            <slidelink slideid="_player.5wZTTSyUMUY.6ZehDEAlZxi" displaytext="Pilihlah Jawaban yang Benar !&#xA;Diketahui reaksi: 2AgNO3 (aq) + Cu(s) –&amp;gt;  2Ag(s)+Cu(NO3)2 (aq), notasi sel volta dari reaksi di atas adalah ...." expand="false" type="slide" />
+            <slidelink slideid="_player.5wZTTSyUMUY.6ZehDEAlZxi" displaytext="Pilihlah Jawaban yang Benar !&#xA;Diketahui reaksi: 2AgNO3 (aq) + Cu(s) ® 2Ag(s)+Cu(NO3)2 (aq), notasi sel volta dari reaksi di atas adalah ...." expand="false" type="slide" />
             <slidelink slideid="_player.5wZTTSyUMUY.5ZDi4X0uGFr" displaytext="     Diketahui :&#xA;Na+  +  e ® Na		Eo = - 2,71 volt&#xA;Pb2+  +  2e  ® Pb	Eo = - 0,13 volt&#xA;Jika electrode Na dipasangkan dengan electrode Pb menjadi sel elektrokimia, maka tentukan pasangan yang tepat dari pertanyaan di kolom sebelah kiri dengan jawaban yang tepat yang ada di kolom sebelah kanan.&#xA;Pasangan  pertanyaan dengan jawaban yang tepat adalah …" expand="false" type="slide" />
             <slidelink slideid="_player.5wZTTSyUMUY.6j3g7aL3uas" displaytext="   Suatu sel volta terdiri atas elektroda Cu yang dicelupkan kedalam larutan Cu2+ 1 M dan elektroda Co2+ yang dicelupkan kedalam Co2+ 1M. Diketahui data berikut:&#xA;Cu2+ (aq) +2e- ® Cu (s) 	Eo = + 0,34  volt&#xA;Co2+ (aq) +2e- ® Co (s) 	Eo = - 0,28  volt&#xA;Pernyataan yang benar berkaitan dengan kedua reaksi tersebut adalah ..." expand="false" type="slide" />
             <slidelink slideid="_player.5wZTTSyUMUY.5WpysLXcb5t" displaytext="Berdasarkan data dan gambar diagram sel, pernyataan dibawah ini BENAR atau SALAH ? &#xA;“Reaksi yang terjadi pada elektroda negatif pada gambar di atas adalah &#xA;Cu ® Cu2+ + 2e “" expand="false" type="slide" />
